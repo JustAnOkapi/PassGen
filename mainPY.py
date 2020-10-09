@@ -3,7 +3,6 @@ from browser import document as doc
 from browser import window
 from browser import alert
 from browser.widgets.dialog import InfoDialog
-
 # imports from Brython
 
 window.console.clear() # clean browser console 
