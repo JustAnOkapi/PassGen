@@ -1,0 +1,31 @@
+/*
+d88888b  .d88b.  d8b   db d888888b
+88'     .8P  Y8. 888o  88 `~~88~~'
+88ooo   88    88 88V8o 88    88
+88~~~   88    88 88 V8o88    88
+88      `8b  d8' 88  V888    88
+YP       `Y88P'  VP   V8P    YP
+*/
+@import url(https://fonts.googleapis.com/css?family=Raleway:500);
+/*
+d8888b.  .d88b.  d8888b. db    db
+88  `8D .8P  Y8. 88  `8D `8b  d8'
+88oooY' 88    88 88   88  `8bd8'
+88~~~b. 88    88 88   88    88
+88   8D `8b  d8' 88  .8D    88
+Y8888P'  `Y88P'  Y8888D'    YP
+*/
+body {
+    background: #efefef;
+    text-align: center;
+    font: 1em 'Raleway', sans-serif;
+    /* color: #fefefe;} */
+}
+
+#inputt {
+    width: 500px;
+    margin-left: 40%;
+}
+#run_button {
+    width: 500px;
+}
